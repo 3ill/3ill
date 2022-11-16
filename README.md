@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3ill
-- 👀 I’m a Blockchain <Developer/>
+- 👀 I’m a Blockchain Developer
 - 🌱 I’m currently learning reactJs
 
 <!---
