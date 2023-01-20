@@ -3,11 +3,7 @@
 - 📑 Researcher
 - 📑 Data Analyst
 
-<!---Tech Stack Goes Here --->
-**Fav Tech Stack**
-  Solidity
-  React.js
-  Node.js
+
 
 
 - 
