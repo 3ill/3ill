@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @3ill
-- 👀 I’m a Blockchain Developer
+**- 👋 Hi, I’m @3ill**
+- 💻 I’m a Blockchain Developer & a Web3 Enthusaist
+- 📑 Researcher
+- 📑 Data Analyst
+
+<!---Tech Stack Goes Here --->
+**Fav Tech Stack**
+  Solidity
+  React.js
+  Node.js
+
+
+- 
+- 
 
 
 <!---
