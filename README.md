@@ -6,11 +6,14 @@
 
 **- 📚 Currently Learning* 
 - Blockchain Development 
+- React.js
+
 
 
 **- 🤝 Looking to Collaborate* 
 - Web3 or Crypto Projects 
 - Smart Contract Development 
+
 
 
 **- 📱 Reach Out* 
