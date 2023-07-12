@@ -29,7 +29,7 @@ Hey there, I'm **Chikezie**, your go-to guy for all things code-related. I'm a *
 - `C#`
 - `PYTHON`
 
-<h1 align="center">Reach Out </h1>
+<h1 align="center">Reach Out 🤙 </h1>
 <p align="center">
   <a href="linkedin.com/in/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/linkedin_3536505.png" alt="linkedin" style="margin-right: 10px;" width="100"></a>
   <a href="https://twitter.com/longlivethrill"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/twitter_3256013.png" alt="twitter" style="margin-right: 10px;" width="100"></a>
