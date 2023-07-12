@@ -30,13 +30,7 @@ Hey there, I'm **Chikezie**, your go-to guy for all things code-related. I'm a *
 - `PYTHON`
 
 <h1 align="center">Reach Out 🤙 </h1>
-<style>
-  .social-links a:not(:last-child) {
-    margin-right: 5px;
-  }
-</style>
-
-<p align="center" class="social-links">
+<p align="center"> Drop a message.
   <a href="linkedin.com/in/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/linkedin_3536505.png" alt="linkedin" width="100"></a>
   <a href="https://twitter.com/longlivethrill"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/twitter_3256013.png" alt="twitter" width="100"></a>
   <a href="https://www.instagram.com/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/instagram_174855.png" alt="instagram" width="100"></a>
