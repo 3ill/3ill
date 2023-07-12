@@ -4,15 +4,11 @@
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/solidity.png" alt="solidity" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/ethers.svg" alt="ethers" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/javascript.png" alt="javascript" width="50"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/reactjs.png alt="Reacj.js" width="50"></a>
+  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/reactjs.png alt="React" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/tailwind.png" alt="tailwindcss" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/nodejs.png" alt="node" width="50"></a>
 
 </p>
-
-___
-
-
 
 
 # Who am i? 🤔
