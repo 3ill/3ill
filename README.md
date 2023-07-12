@@ -29,11 +29,12 @@ Hey there, I'm **Chikezie**, your go-to guy for all things code-related. I'm a *
 - `C#`
 - `PYTHON`
 
-# Reach Out 🤙
+<h1 align="center">Reach Out </h1>
 <p align="center">
-  <a href="linkedin.com/in/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/linkedin_3536505.png" alt="linkedin" width="100"></a>
-  <a href="https://twitter.com/longlivethrill"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/twitter_3256013.png" alt="twitter" width="100"></a>
-  <a href="https://www.instagram.com/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/instagram_174855.png" alt="instagram" width="100"></a>
-  <a href="https://near.social/#/mob.near/widget/ProfilePage?accountId=3iilbaby.near"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/letter-n_3097059.png" alt="near" width="100"></a>
+  <a href="linkedin.com/in/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/linkedin_3536505.png" alt="linkedin" style="margin-right: 5px;" width="100"></a>
+  <a href="https://twitter.com/longlivethrill"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/twitter_3256013.png" alt="twitter" style="margin-right: 5px;" width="100"></a>
+  <a href="https://www.instagram.com/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/instagram_174855.png" alt="instagram" style="margin-right: 5px;" width="100"></a>
+  <a href="https://near.social/#/mob.near/widget/ProfilePage?accountId=3iilbaby.near"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/letter-n_3097059.png" alt="near" style="margin-right: 5px;" width="100"></a>
 </p>
+
 
