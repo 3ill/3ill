@@ -2,8 +2,8 @@
 
 <p align="center">
 <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/solidity.png" alt="solidity" width="50"></a>
-<a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/ethers.svg" alt="solidity" width="50"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/ethers.svg" alt="ethers" width="50"></a>
+<a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/javascript.png" alt="javascript" width="50"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
