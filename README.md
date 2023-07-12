@@ -31,8 +31,8 @@ Hey there, I'm **Chikezie**, your go-to guy for all things code-related. I'm a *
 
 # Reach Out 🤙
 <p align="center">
-  <a href="https://www.linkedin.com/in/3illbaby/"><img src="<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>" alt="linkedin" width="100"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/ethers.svg" alt="ethers" width="50"></a>
+  
+  <a href="linkedin.com/in/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/linkedin_3536505.png" alt="linkedin" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/javascript.png" alt="javascript" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/reactjs.png" alt="React" width="50"></a>
   <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/tailwind.png" alt="tailwindcss" width="50"></a>
