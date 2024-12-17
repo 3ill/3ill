@@ -1,41 +1,20 @@
-<p align="center"><a href="https://twitter.com/longlivethrill" target="_blank"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/logo.png" width="200"></a></p>
+# 💫 About Me:
+I am a blockchain architect with a passion for designing innovative blockchain solutions and integrating blockchain technology into existing software systems. My work centers on creating seamless, cutting-edge applications that bridge the gap between Web2 and Web3.
 
-<p align="center">
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/solidity.png" alt="solidity" width="50"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/ethers.svg" alt="ethers" width="50"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/javascript.png" alt="javascript" width="50"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/reactjs.png" alt="React" width="50"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/tailwind.png" alt="tailwindcss" width="50"></a>
-  <a href="/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/tech/nodejs.png" alt="node" width="50"></a>
-
-</p>
+I am a firm believer in the power of collaboration and actively seek opportunities to contribute to both blockchain and traditional software projects.
 
 
-# Who am I? 🤔
-Hey there, I'm **Chikezie**, your go-to guy for all things code-related. I'm a **blockchain developer**, **full-stack wizard**, and **data enthusiast**. You'll often find me lost in the beautiful realms of technology, grooving to music beats, and getting my game on. When I'm not busy crafting cool projects, I'm diving into deep conversations, geeking out with research, binge-watching anime, or unleashing my gaming skills. So, join the fun as we embark on this incredible adventure together! 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3illbaby) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/3illbaby) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@3illbaby) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/longlivethrill) 
 
-# Stack 🛠
-- `SOLIDITY`
-- `RUST`
-- `JAVASCRIPT`
-- `REACTJS`
-- `ETHERSJS`
-- `TAILWINDCSS`
-- `R`
-- `SQL`
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=3ill&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=3ill&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=3ill&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-# Currently Learning 📚
-- `C++`
-- `C#`
-- `PYTHON`
+---
+[![](https://visitcount.itsvg.in/api?id=3ill&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Reach Out 🤙 </h1>
-<p align="center">
-  <a  href="https://www.linkedin.com/in/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/linkedin_3536505.png" alt="linkedin" width="60"></a>
-  <a href="https://twitter.com/longlivethrill"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/twitter_3256013.png" alt="twitter" width="60"></a>
-  <a href="https://www.instagram.com/3illbaby/"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/instagram_174855.png" alt="instagram" width="60"></a>
-  <a href="https://near.social/#/mob.near/widget/ProfilePage?accountId=3iilbaby.near"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/Social/letter-n_3097059.png" alt="near" width="60"></a>
-  
-</p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
